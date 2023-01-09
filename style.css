@@ -1,7 +1,7 @@
-body {
-  font-size: 2em;
-}
-
 header {
   background-color: red;
+}
+
+.slider {
+  background-color: yellow;
 }
